@@ -59,7 +59,7 @@ function logout() {
     window.location.href = "index.html";
 }
 
-
+//dhbhdfdhfhdfdhbhf
 // LOAD ALL BOOKS
 function loadBooks() {
     const books = JSON.parse(localStorage.getItem("books")) || [];
@@ -72,7 +72,7 @@ function loadBooks() {
         div.className = "bg-white p-4 shadow rounded";
         //first line adds shadow on hover
         div.innerHTML = `
-        <div class="flex items-center justify-between gap-3 shadow-md transition duration-300 hover:scale-105 hover:shadow-2x1">
+        <div class="flex items-center justify-between gap-3 shadow-md transition duration-300 hover:scale-105 hover:shadow-mg">
         <div class="flex-1">
             <h3 class="font-bold text-lg">${book.title}</h3>
             <h2 class="italic text-gray-600">${book.author}</h2>

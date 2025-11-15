@@ -1,0 +1,729 @@
+[{
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "image": "images/images.jpeg",
+        "year": 1925,
+        "rented": false
+    },
+    {
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "image": "images/81gepf1eMqL.jpg",
+        "year": 1960,
+        "rented": false
+    },
+    {
+        "title": "1984",
+        "author": "George Orwell",
+        "image": "images/71wANojhEKL._AC_UF1000,1000_QL80_.jpg",
+        "year": 1949,
+        "rented": false
+    },
+    {
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "image": "images/812wzoJvRLL._AC_UF1000,1000_QL80_.jpg",
+        "year": 1813,
+        "rented": false
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "image": "images/moby-dick.jpg",
+        "year": 1851,
+        "rented": false
+    },
+    {
+        "title": "Things Fall Apart",
+        "author": "Chinua Achebe",
+        "image": "images/things-fall-apart.jpg",
+        "year": 1958,
+        "rented": false
+    },
+    {
+        "title": "Fairy tales",
+        "author": "Hans Christian Andersen",
+        "image": "images/fairy-tales.jpg",
+        "year": 1836,
+        "rented": false
+    },
+    {
+        "title": "The Divine Comedy",
+        "author": "Dante Alighieri",
+        "image": "images/the-divine-comedy.jpg",
+        "year": 1315,
+        "rented": false
+    },
+    {
+        "title": "The Epic Of Gilgamesh",
+        "author": "Unknown",
+        "image": "images/the-epic-of-gilgamesh.jpg",
+        "year": -1700,
+        "rented": false
+    },
+    {
+        "title": "The Book Of Job",
+        "author": "Unknown",
+        "image": "images/the-book-of-job.jpg",
+        "year": -600,
+        "rented": false
+    },
+    {
+        "title": "One Thousand and One Nights",
+        "author": "Unknown",
+        "image": "images/one-thousand-and-one-nights.jpg",
+        "year": 1200,
+        "rented": false
+    },
+    {
+        "title": "Njál's Saga",
+        "author": "Unknown",
+        "image": "images/njals-saga.jpg",
+        "year": 1350,
+        "rented": false
+    },
+    {
+        "title": "Le Père Goriot",
+        "author": "Honoré de Balzac",
+        "image": "images/le-pere-goriot.jpg",
+        "year": 1835,
+        "rented": false
+    },
+    {
+        "title": "Molloy, Malone Dies, The Unnamable, the trilogy",
+        "author": "Samuel Beckett",
+        "image": "images/molloy-malone-dies-the-unnamable.jpg",
+        "year": 1952,
+        "rented": false
+    },
+    {
+        "title": "The Decameron",
+        "author": "Giovanni Boccaccio",
+        "image": "images/the-decameron.jpg",
+        "year": 1351,
+        "rented": false
+    },
+    {
+        "title": "Ficciones",
+        "author": "Jorge Luis Borges",
+        "image": "images/ficciones.jpg",
+        "year": 1965,
+        "rented": false
+    },
+    {
+        "title": "Wuthering Heights",
+        "author": "Emily Brontë",
+        "image": "images/wuthering-heights.jpg",
+        "year": 1847,
+        "rented": false
+    },
+    {
+        "title": "The Stranger",
+        "author": "Albert Camus",
+        "image": "images/l-etranger.jpg",
+        "year": 1942,
+        "rented": false
+    },
+    {
+        "title": "Poems",
+        "author": "Paul Celan",
+        "image": "images/poems-paul-celan.jpg",
+        "year": 1952,
+        "rented": false
+    },
+    {
+        "title": "Journey to the End of the Night",
+        "author": "Louis-Ferdinand Céline",
+        "image": "images/voyage-au-bout-de-la-nuit.jpg",
+        "year": 1932,
+        "rented": false
+    },
+    {
+        "title": "Don Quijote De La Mancha",
+        "author": "Miguel de Cervantes",
+        "image": "images/don-quijote-de-la-mancha.jpg",
+        "year": 1610,
+        "rented": false
+    },
+    {
+        "title": "The Canterbury Tales",
+        "author": "Geoffrey Chaucer",
+        "image": "images/the-canterbury-tales.jpg",
+        "year": 1450,
+        "rented": false
+    },
+    {
+        "title": "Stories",
+        "author": "Anton Chekhov",
+        "image": "images/stories-of-anton-chekhov.jpg",
+        "year": 1886,
+        "rented": false
+    },
+    {
+        "title": "Nostromo",
+        "author": "Joseph Conrad",
+        "image": "images/nostromo.jpg",
+        "year": 1904,
+        "rented": false
+    },
+    {
+        "title": "Great Expectations",
+        "author": "Charles Dickens",
+        "image": "images/great-expectations.jpg",
+        "year": 1861,
+        "rented": false
+    },
+    {
+        "title": "Jacques the Fatalist",
+        "author": "Denis Diderot",
+        "image": "images/jacques-the-fatalist.jpg",
+        "year": 1796,
+        "rented": false
+    },
+    {
+        "title": "Berlin Alexanderplatz",
+        "author": "Alfred Döblin",
+        "image": "images/berlin-alexanderplatz.jpg",
+        "year": 1929,
+        "rented": false
+    },
+    {
+        "title": "Crime and Punishment",
+        "author": "Fyodor Dostoevsky",
+        "image": "images/crime-and-punishment.jpg",
+        "year": 1866,
+        "rented": false
+    },
+    {
+        "title": "The Idiot",
+        "author": "Fyodor Dostoevsky",
+        "image": "images/the-idiot.jpg",
+        "year": 1869,
+        "rented": false
+    },
+    {
+        "title": "The Possessed",
+        "author": "Fyodor Dostoevsky",
+        "image": "images/the-possessed.jpg",
+        "year": 1872,
+        "rented": false
+    },
+    {
+        "title": "The Brothers Karamazov",
+        "author": "Fyodor Dostoevsky",
+        "image": "images/the-brothers-karamazov.jpg",
+        "year": 1880,
+        "rented": false
+    },
+    {
+        "title": "Middlemarch",
+        "author": "George Eliot",
+        "image": "images/middlemarch.jpg",
+        "year": 1871,
+        "rented": false
+    },
+    {
+        "title": "Invisible Man",
+        "author": "Ralph Ellison",
+        "image": "images/invisible-man.jpg",
+        "year": 1952,
+        "rented": false
+    },
+    {
+        "title": "Medea",
+        "author": "Euripides",
+        "image": "images/medea.jpg",
+        "year": -431,
+        "rented": false
+    },
+    {
+        "title": "Absalom, Absalom!",
+        "author": "William Faulkner",
+        "image": "images/absalom-absalom.jpg",
+        "year": 1936,
+        "rented": false
+    },
+    {
+        "title": "The Sound and the Fury",
+        "author": "William Faulkner",
+        "image": "images/the-sound-and-the-fury.jpg",
+        "year": 1929,
+        "rented": false
+    },
+    {
+        "title": "Madame Bovary",
+        "author": "Gustave Flaubert",
+        "image": "images/madame-bovary.jpg",
+        "year": 1857,
+        "rented": false
+    },
+    {
+        "title": "Sentimental Education",
+        "author": "Gustave Flaubert",
+        "image": "images/l-education-sentimentale.jpg",
+        "year": 1869,
+        "rented": false
+    },
+    {
+        "title": "Gypsy Ballads",
+        "author": "Federico García Lorca",
+        "image": "images/gypsy-ballads.jpg",
+        "year": 1928,
+        "rented": false
+    },
+    {
+        "title": "One Hundred Years of Solitude",
+        "author": "Gabriel García Márquez",
+        "image": "images/one-hundred-years-of-solitude.jpg",
+        "year": 1967,
+        "rented": false
+    },
+    {
+        "title": "Love in the Time of Cholera",
+        "author": "Gabriel García Márquez",
+        "image": "images/love-in-the-time-of-cholera.jpg",
+        "year": 1985,
+        "rented": false
+    },
+    {
+        "title": "Faust",
+        "author": "Johann Wolfgang von Goethe",
+        "image": "images/faust.jpg",
+        "year": 1832,
+        "rented": false
+    },
+    {
+        "title": "Dead Souls",
+        "author": "Nikolai Gogol",
+        "image": "images/dead-souls.jpg",
+        "year": 1842,
+        "rented": false
+    },
+    {
+        "title": "The Tin Drum",
+        "author": "Günter Grass",
+        "image": "images/the-tin-drum.jpg",
+        "year": 1959,
+        "rented": false
+    },
+    {
+        "title": "The Devil to Pay in the Backlands",
+        "author": "João Guimarães Rosa",
+        "image": "images/the-devil-to-pay-in-the-backlands.jpg",
+        "year": 1956,
+        "rented": false
+    },
+    {
+        "title": "Hunger",
+        "author": "Knut Hamsun",
+        "image": "images/hunger.jpg",
+        "year": 1890,
+        "rented": false
+    },
+    {
+        "title": "The Old Man and the Sea",
+        "author": "Ernest Hemingway",
+        "image": "images/the-old-man-and-the-sea.jpg",
+        "year": 1952,
+        "rented": false
+    },
+    {
+        "title": "Iliad",
+        "author": "Homer",
+        "image": "images/the-iliad-of-homer.jpg",
+        "year": -735,
+        "rented": false
+    },
+    {
+        "title": "Odyssey",
+        "author": "Homer",
+        "image": "images/the-odyssey-of-homer.jpg",
+        "year": -800,
+        "rented": false
+    },
+    {
+        "title": "A Doll's House",
+        "author": "Henrik Ibsen",
+        "image": "images/a-Dolls-house.jpg",
+        "year": 1879,
+        "rented": false
+    },
+    {
+        "title": "Ulysses",
+        "author": "James Joyce",
+        "image": "images/ulysses.jpg",
+        "year": 1922,
+        "rented": false
+    },
+    {
+        "title": "Stories",
+        "author": "Franz Kafka",
+        "image": "images/stories-of-franz-kafka.jpg",
+        "year": 1924,
+        "rented": false
+    },
+    {
+        "title": "The Trial",
+        "author": "Franz Kafka",
+        "image": "images/the-trial.jpg",
+        "year": 1925,
+        "rented": false
+    },
+    {
+        "title": "The Castle",
+        "author": "Franz Kafka",
+        "image": "images/the-castle.jpg",
+        "year": 1926,
+        "rented": false
+    },
+    {
+        "title": "The recognition of Shakuntala",
+        "author": "Kālidāsa",
+        "image": "images/the-recognition-of-shakuntala.jpg",
+        "year": 150,
+        "rented": false
+    },
+    {
+        "title": "The Sound of the Mountain",
+        "author": "Yasunari Kawabata",
+        "image": "images/the-sound-of-the-mountain.jpg",
+        "year": 1954,
+        "rented": false
+    },
+    {
+        "title": "Zorba the Greek",
+        "author": "Nikos Kazantzakis",
+        "image": "images/zorba-the-greek.jpg",
+        "year": 1946,
+        "rented": false
+    },
+    {
+        "title": "Sons and Lovers",
+        "author": "D. H. Lawrence",
+        "image": "images/sons-and-lovers.jpg",
+        "year": 1913,
+        "rented": false
+    },
+    {
+        "title": "Independent People",
+        "author": "Halldór Laxness",
+        "image": "images/independent-people.jpg",
+        "year": 1934,
+        "rented": false
+    },
+    {
+        "title": "Poems",
+        "author": "Giacomo Leopardi",
+        "image": "images/poems-giacomo-leopardi.jpg",
+        "year": 1818,
+        "rented": false
+    },
+    {
+        "title": "The Golden Notebook",
+        "author": "Doris Lessing",
+        "image": "images/the-golden-notebook.jpg",
+        "year": 1962,
+        "rented": false
+    },
+    {
+        "title": "Pippi Longstocking",
+        "author": "Astrid Lindgren",
+        "image": "images/pippi-longstocking.jpg",
+        "year": 1945,
+        "rented": false
+    },
+    {
+        "title": "Diary of a Madman",
+        "author": "Lu Xun",
+        "image": "images/diary-of-a-madman.jpg",
+        "year": 1918,
+        "rented": false
+    },
+    {
+        "title": "Children of Gebelawi",
+        "author": "Naguib Mahfouz",
+        "image": "images/children-of-gebelawi.jpg",
+        "year": 1959,
+        "rented": false
+    },
+    {
+        "title": "Buddenbrooks",
+        "author": "Thomas Mann",
+        "image": "images/buddenbrooks.jpg",
+        "year": 1901,
+        "rented": false
+    },
+    {
+        "title": "The Magic Mountain",
+        "author": "Thomas Mann",
+        "image": "images/the-magic-mountain.jpg",
+        "year": 1924,
+        "rented": false
+    },
+    {
+        "title": "Moby Dick",
+        "author": "Herman Melville",
+        "image": "images/moby-dick.jpg",
+        "year": 1851,
+        "rented": false
+    },
+    {
+        "title": "Essays",
+        "author": "Michel de Montaigne",
+        "image": "images/essais.jpg",
+        "year": 1595,
+        "rented": false
+    },
+    {
+        "title": "History",
+        "author": "Elsa Morante",
+        "image": "images/history.jpg",
+        "year": 1974,
+        "rented": false
+    },
+    {
+        "title": "Beloved",
+        "author": "Toni Morrison",
+        "image": "images/beloved.jpg",
+        "year": 1987,
+        "rented": false
+    },
+    {
+        "title": "The Tale of Genji",
+        "author": "Murasaki Shikibu",
+        "image": "images/the-tale-of-genji.jpg",
+        "year": 1006,
+        "rented": false
+    },
+    {
+        "title": "The Man Without Qualities",
+        "author": "Robert Musil",
+        "image": "images/the-man-without-qualities.jpg",
+        "year": 1931,
+        "rented": false
+    },
+    {
+        "title": "Lolita",
+        "author": "Vladimir Nabokov",
+        "image": "images/lolita.jpg",
+        "year": 1955,
+        "rented": false
+    },
+    {
+        "title": "Nineteen Eighty-Four",
+        "author": "George Orwell",
+        "image": "images/nineteen-eighty-four.jpg",
+        "year": 1949,
+        "rented": false
+    },
+    {
+        "title": "Metamorphoses",
+        "author": "Ovid",
+        "image": "images/the-metamorphoses-of-ovid.jpg",
+        "year": 100,
+        "rented": false
+    },
+    {
+        "title": "The Book of Disquiet",
+        "author": "Fernando Pessoa",
+        "image": "images/the-book-of-disquiet.jpg",
+        "year": 1928,
+        "rented": false
+    },
+    {
+        "title": "Tales",
+        "author": "Edgar Allan Poe",
+        "image": "images/tales-and-poems-of-edgar-allan-poe.jpg",
+        "year": 1950,
+        "rented": false
+    },
+    {
+        "title": "In Search of Lost Time",
+        "author": "Marcel Proust",
+        "image": "images/a-la-recherche-du-temps-perdu.jpg",
+        "year": 1920,
+        "rented": false
+    },
+    {
+        "title": "Gargantua and Pantagruel",
+        "author": "François Rabelais",
+        "image": "images/gargantua-and-pantagruel.jpg",
+        "year": 1533,
+        "rented": false
+    },
+    {
+        "title": "Pedro Páramo",
+        "author": "Juan Rulfo",
+        "image": "images/pedro-paramo.jpg",
+        "year": 1955,
+        "rented": false
+    },
+    {
+        "title": "The Masnavi",
+        "author": "Rumi",
+        "image": "images/the-masnavi.jpg",
+        "year": 1236,
+        "rented": false
+    },
+    {
+        "title": "Midnight's Children",
+        "author": "Salman Rushdie",
+        "image": "images/midnights-children.jpg",
+        "year": 1981,
+        "rented": false
+    },
+    {
+        "title": "Bostan",
+        "author": "Saadi",
+        "image": "images/bostan.jpg",
+        "year": 1257,
+        "rented": false
+    },
+    {
+        "title": "Season of Migration to the North",
+        "author": "Tayeb Salih",
+        "image": "images/season-of-migration-to-the-north.jpg",
+        "year": 1966,
+        "rented": false
+    },
+    {
+        "title": "Blindness",
+        "author": "José Saramago",
+        "image": "images/blindness.jpg",
+        "year": 1995,
+        "rented": false
+    },
+    {
+        "title": "Hamlet",
+        "author": "William Shakespeare",
+        "image": "images/hamlet.jpg",
+        "year": 1603,
+        "rented": false
+    },
+    {
+        "title": "King Lear",
+        "author": "William Shakespeare",
+        "image": "images/king-lear.jpg",
+        "year": 1608,
+        "rented": false
+    },
+    {
+        "title": "Othello",
+        "author": "William Shakespeare",
+        "image": "images/othello.jpg",
+        "year": 1609,
+        "rented": false
+    },
+    {
+        "title": "Oedipus the King",
+        "author": "Sophocles",
+        "image": "images/oedipus-the-king.jpg",
+        "year": -430,
+        "rented": false
+    },
+    {
+        "title": "The Red and the Black",
+        "author": "Stendhal",
+        "image": "images/le-rouge-et-le-noir.jpg",
+        "year": 1830,
+        "rented": false
+    },
+    {
+        "title": "The Life And Opinions of Tristram Shandy",
+        "author": "Laurence Sterne",
+        "image": "images/the-life-and-opinions-of-tristram-shandy.jpg",
+        "year": 1760,
+        "rented": false
+    },
+    {
+        "title": "Confessions of Zeno",
+        "author": "Italo Svevo",
+        "image": "images/confessions-of-zeno.jpg",
+        "year": 1923,
+        "rented": false
+    },
+    {
+        "title": "Gulliver's Travels",
+        "author": "Jonathan Swift",
+        "image": "images/gullivers-travels.jpg",
+        "year": 1726,
+        "rented": false
+    },
+    {
+        "title": "War and Peace",
+        "author": "Leo Tolstoy",
+        "image": "images/war-and-peace.jpg",
+        "year": 1867,
+        "rented": false
+    },
+    {
+        "title": "Anna Karenina",
+        "author": "Leo Tolstoy",
+        "image": "images/anna-karenina.jpg",
+        "year": 1877,
+        "rented": false
+    },
+    {
+        "title": "The Death of Ivan Ilyich",
+        "author": "Leo Tolstoy",
+        "image": "images/the-death-of-ivan-ilyich.jpg",
+        "year": 1886,
+        "rented": false
+    },
+    {
+        "title": "The Adventures of Huckleberry Finn",
+        "author": "Mark Twain",
+        "image": "images/the-adventures-of-huckleberry-finn.jpg",
+        "year": 1884,
+        "rented": false
+    },
+    {
+        "title": "Ramayana",
+        "author": "Valmiki",
+        "image": "images/ramayana.jpg",
+        "year": -450,
+        "rented": false
+    },
+    {
+        "title": "The Aeneid",
+        "author": "Virgil",
+        "image": "images/the-aeneid.jpg",
+        "year": -23,
+        "rented": false
+    },
+    {
+        "title": "Mahabharata",
+        "author": "Vyasa",
+        "image": "images/the-mahab-harata.jpg",
+        "year": -700,
+        "rented": false
+    },
+    {
+        "title": "Leaves of Grass",
+        "author": "Walt Whitman",
+        "image": "images/leaves-of-grass.jpg",
+        "year": 1855,
+        "rented": false
+    },
+    {
+        "title": "Mrs Dalloway",
+        "author": "Virginia Woolf",
+        "image": "images/mrs-dalloway.jpg",
+        "year": 1925,
+        "rented": false
+    },
+    {
+        "title": "To the Lighthouse",
+        "author": "Virginia Woolf",
+        "image": "images/to-the-lighthouse.jpg",
+        "year": 1927,
+        "rented": false
+    },
+    {
+        "title": "Memoirs of Hadrian",
+        "author": "Marguerite Yourcenar",
+        "image": "images/memoirs-of-hadrian.jpg",
+        "year": 1951,
+        "rented": false
+    }
+]

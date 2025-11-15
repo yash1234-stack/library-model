@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8" />
+    <title>Dashboard</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+</head>
+
+<body onload="loadBooks()" class="bg-gray-100 min-h-screen p-6">
+    <h1 class="text-4xl font-bold text-blue-600 mb-6">Library Dashboard</h1>
+
+    <div id="bookList" class="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
+    </div>
+
+    <div class="flex gap-4 mt-6">
+        <button onclick="window.location='mybooks.html'" class="bg-blue-600 text-white px-4 py-2 rounded-lg hover:bg-blue-700">
+      📖 My Books
+    </button>
+
+        <button onclick="logout()" class="bg-red-500 text-white px-4 py-2 rounded-lg hover:bg-red-600">
+      🚪 Logout
+    </button>
+
+        <button onclick="resetBooks()" class="bg-gray-700 text-white px-4 py-2 rounded-lg hover:bg-gray-800">
+      🔄 Reset Books
+    </button>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+
+</html>

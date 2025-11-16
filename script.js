@@ -72,7 +72,7 @@ function loadBooks() {
         div.className = "bg-white p-4 shadow rounded";
         //first line adds shadow on hover
         div.innerHTML = `
-        <div class="flex items-center justify-between gap-3 shadow-md transition duration-300 hover:scale-105 hover:shadow-mg">
+        <div class="flex items-center justify-between gap-3 shadow-md transition duration-300 hover:scale-105 hover:shadow-2x1">
         <div class="flex-1">
             <h3 class="font-bold text-lg">${book.title}</h3>
             <h2 class="italic text-gray-600">${book.author}</h2>
@@ -117,8 +117,10 @@ function rentBook(title) {
     rentedBooks.push({
         username,
         title,
+        image: book.image,
         rentDate: rentDate.toISOString(),
         dueDate: dueDate.toISOString()
+
     });
 
     localStorage.setItem("books", JSON.stringify(books));
@@ -142,13 +144,21 @@ function loadMyBooks() {
         div.className = "bg-white p-4 shadow rounded";
 
         div.innerHTML = `
-      <h3 class="font-bold text-lg">${book.title}</h3>
-      <p>Due: ${new Date(book.dueDate).toLocaleTimeString()}</p>
-    `;
+        <div class="flex items-center justify-between gap-4 shadow-md transition duration-300 hover:scale-105 hover:shadow-2xl p-2 rounded">
+        <div class="flex-1">
+        <h3 class="font-bold text-lg">${book.title}</h3>
+        <p>Due: ${new Date(book.dueDate).toLocaleTimeString()}</p>
+        </div>
+
+        <img src="${book.image}" 
+        class="w-20 h-24 object-cover rounded shadow" 
+        alt="${book.title}">
+        </div>`;
+
 
         const btn = document.createElement("button");
         btn.textContent = "Return";
-        btn.className = "bg-red-500 text-white px-3 py-1 rounded mt-2";
+        btn.className = "bg-red-500 text-white px-3 py-1 rounded mt-2 transition duration-300 hover:bg-red-700 hover:scale-130 hover:shadow-2x1";
         btn.onclick = () => returnBook(book.title);
 
         div.appendChild(btn);
@@ -187,8 +197,6 @@ function returnBook(title) {
     alert(fine > 0 ? `Late! Fine paid: ₹${fine}` : "Returned on time!");
     loadMyBooks();
 }
-
-
 // RESET BOOKS (uses your books.json)
 function resetBooks() {
     const freshList = initialBooks.map(b => ({...b, rented: false }));
